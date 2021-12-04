@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/project-team-army/static/css/main.5e6651ae.chunk.css",
+    "main.js": "/project-team-army/static/js/main.658fcee5.chunk.js",
+    "main.js.map": "/project-team-army/static/js/main.658fcee5.chunk.js.map",
+    "runtime-main.js": "/project-team-army/static/js/runtime-main.6d3db74f.js",
+    "runtime-main.js.map": "/project-team-army/static/js/runtime-main.6d3db74f.js.map",
+    "static/css/2.fa130c53.chunk.css": "/project-team-army/static/css/2.fa130c53.chunk.css",
+    "static/js/2.424b4d5f.chunk.js": "/project-team-army/static/js/2.424b4d5f.chunk.js",
+    "static/js/2.424b4d5f.chunk.js.map": "/project-team-army/static/js/2.424b4d5f.chunk.js.map",
+    "index.html": "/project-team-army/index.html",
+    "static/css/2.fa130c53.chunk.css.map": "/project-team-army/static/css/2.fa130c53.chunk.css.map",
+    "static/css/main.5e6651ae.chunk.css.map": "/project-team-army/static/css/main.5e6651ae.chunk.css.map",
+    "static/js/2.424b4d5f.chunk.js.LICENSE.txt": "/project-team-army/static/js/2.424b4d5f.chunk.js.LICENSE.txt",
+    "static/media/USC_logo.b06bc288.png": "/project-team-army/static/media/USC_logo.b06bc288.png",
+    "static/media/global-outlook-power-ban-cover.e4beb5ba.jpeg": "/project-team-army/static/media/global-outlook-power-ban-cover.e4beb5ba.jpeg",
+    "static/media/mapbox_data.14018386.geojson": "/project-team-army/static/media/mapbox_data.14018386.geojson",
+    "static/media/most10_death.9bb0ab8f.csv": "/project-team-army/static/media/most10_death.9bb0ab8f.csv",
+    "static/media/pie1.97cbdf9b.csv": "/project-team-army/static/media/pie1.97cbdf9b.csv",
+    "static/media/pie2.09a24a84.csv": "/project-team-army/static/media/pie2.09a24a84.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3db74f.js",
+    "static/css/2.fa130c53.chunk.css",
+    "static/js/2.424b4d5f.chunk.js",
+    "static/css/main.5e6651ae.chunk.css",
+    "static/js/main.658fcee5.chunk.js"
+  ]
+}
